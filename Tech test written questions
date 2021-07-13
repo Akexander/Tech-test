@@ -1,0 +1,21 @@
+
+Why do we test our software as engineers:
+	To confirm that your product is a working (sellable) item 		
+  for the end uses or clients. That will not fail in the field 			
+  or create avoidable expense and loss of time, 				
+  reputation and profit once deployed.
+
+What best practices are there for testing software:
+	Possibly the best type of testing is a testing mindset. 			
+  Writing tests before you have written your code Test-			
+  Driven Development (TDD), will help build clear concise 	
+  code. Unit testing, integration testing and end to end 			
+  testing will be much easier when code has been written 		
+  with this in mind and test procedures planned in 				
+  advanced.
+
+
+Where you have applied those best practices:
+	I have applied these best practices on several projects 		
+  including the building of my calculator, the creation of 			
+  my Morse to English translator and my Punk API project
